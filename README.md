@@ -1,2 +1,6 @@
-# bestfitlinecalc
-Least Squared errors best fit line calculator, which solves for M and B using some derived formulas
+
+## Simple application that just uses some formulas to calculate y = mx + b that minimizes squared residual errors.
+
+## Screenshots
+![Console](https://i.imgur.com/Nt3XRu6.png)
+![Graphing](https://i.imgur.com/v4qXzFz.png)
